@@ -92,3 +92,9 @@ touch test123
 git commit -m "9" 
 git commit -m "test9" 
 git push origin master
+ls
+touch6 
+touch testing6
+git 
+git commit -m "test6"
+git push origin master

@@ -11,13 +11,14 @@
 ~MSle0~/phpmd
 
 # Command Line History (newest to oldest):
+:q!
+:q
+:45
 :x
 :1
 :27
 :21
 :41
-:q
-:q!
 :q1
 
 # Search String History (newest to oldest):
@@ -37,18 +38,19 @@
 	    exclude[] = '/var/www/html/new-html/.config'
 
 # File marks:
-'0  1  0  ~/build.xml
-'1  193  43  ~/build.xml
-'2  182  3  ~/build.xml
-'3  380  14  ~/build.xml
-'4  23  25  ~/phploy.ini
-'5  1  0  ~/phploy.ini
-'6  10  46  ~/phploy.ini
-'7  1  0  ~/index.php
-'8  1  0  ~/phploy.ini
-'9  51  46  ~/phploy.ini
+'0  44  7  ~/build.xml
+'1  1  0  ~/build.xml
+'2  193  43  ~/build.xml
+'3  182  3  ~/build.xml
+'4  380  14  ~/build.xml
+'5  23  25  ~/phploy.ini
+'6  1  0  ~/phploy.ini
+'7  10  46  ~/phploy.ini
+'8  1  0  ~/index.php
+'9  1  0  ~/phploy.ini
 
 # Jumplist (newest first):
+-'  44  7  ~/build.xml
 -'  1  0  ~/build.xml
 -'  193  43  ~/build.xml
 -'  191  46  ~/build.xml
@@ -150,7 +152,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/build.xml
-	"	1	0
+	"	44	7
 	^	167	10
 	.	167	0
 	+	756	0
