@@ -1,0 +1,8 @@
+/.idea
+/.settings
+/.vscode
+/vendor
+/dev
+*~
+*.swp
+.DS_Store
