@@ -82,3 +82,13 @@ pwd
 vim build.xml
 ip r l
 ls
+vi build.xml 
+git add .
+git commit -m "test12"
+git push origin master
+ls
+touch test123
+
+git commit -m "9" 
+git commit -m "test9" 
+git push origin master
