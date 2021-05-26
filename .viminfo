@@ -8,10 +8,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q!
-:q1
 :x
 :q
+:q!
+:q1
 
 # Search String History (newest to oldest):
 
@@ -28,7 +28,7 @@
 	    exclude[] = '/var/www/html/new-html/.config'
 
 # File marks:
-'0  1  0  ~/build.xml
+'0  1  17  ~/build.xml
 '1  23  25  ~/phploy.ini
 '2  1  0  ~/phploy.ini
 '3  10  46  ~/phploy.ini
@@ -38,7 +38,7 @@
 '7  1  0  ~/index.php
 
 # Jumplist (newest first):
--'  1  0  ~/build.xml
+-'  1  17  ~/build.xml
 -'  23  25  ~/phploy.ini
 -'  10  4  ~/phploy.ini
 -'  1  0  ~/phploy.ini
@@ -139,10 +139,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/build.xml
-	"	1	0
-	^	1	0
-	.	2	0
-	+	2	0
+	"	1	17
+	^	212	11
+	.	212	1
+	+	213	0
+	+	212	1
 
 > ~/phploy.ini
 	"	23	25
