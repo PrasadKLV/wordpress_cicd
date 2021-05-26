@@ -8,9 +8,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+:q1
 :x
 :q
-:q!
 
 # Search String History (newest to oldest):
 
@@ -21,18 +22,114 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"0	LINE	0
+	    exclude[] = '/var/www/html/new-html/.config'
+""1	LINE	0
+	    exclude[] = '/var/www/html/new-html/.config'
 
 # File marks:
-'0  1  0  ~/phploy.ini
-'1  10  46  ~/phploy.ini
-'2  1  0  ~/index.php
+'0  1  0  ~/build.xml
+'1  23  25  ~/phploy.ini
+'2  1  0  ~/phploy.ini
+'3  10  46  ~/phploy.ini
+'4  1  0  ~/index.php
+'5  1  0  ~/phploy.ini
+'6  51  46  ~/phploy.ini
+'7  1  0  ~/index.php
 
 # Jumplist (newest first):
+-'  1  0  ~/build.xml
+-'  23  25  ~/phploy.ini
+-'  10  4  ~/phploy.ini
 -'  1  0  ~/phploy.ini
--'  10  46  ~/phploy.ini
 -'  1  0  ~/index.php
 -'  1  0  ~/index.php
 -'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  21  11  ~/phploy.ini
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  42  11  ~/phploy.ini
+-'  111  4  ~/phploy.ini
+-'  51  4  ~/phploy.ini
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  70  4  ~/phploy.ini
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  23  25  ~/phploy.ini
+-'  10  4  ~/phploy.ini
+-'  1  0  ~/phploy.ini
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  21  11  ~/phploy.ini
+-'  1  0  ~/index.php
+-'  1  0  ~/index.php
+-'  42  11  ~/phploy.ini
+-'  111  4  ~/phploy.ini
+-'  51  4  ~/phploy.ini
 -'  1  0  ~/index.php
 -'  1  0  ~/index.php
 -'  1  0  ~/index.php
@@ -41,13 +138,21 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/build.xml
+	"	1	0
+	^	1	0
+	.	2	0
+	+	2	0
+
 > ~/phploy.ini
-	"	10	46
+	"	23	25
 	^	10	47
-	.	10	47
+	.	22	21
 	+	10	19
 	+	11	40
 	+	10	47
+	+	21	11
+	+	22	21
 
 > ~/index.php
 	"	1	0
