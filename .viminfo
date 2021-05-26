@@ -10,6 +10,7 @@
 # Command Line History (newest to oldest):
 :x
 :q
+:1
 :q!
 :q1
 
@@ -28,17 +29,22 @@
 	    exclude[] = '/var/www/html/new-html/.config'
 
 # File marks:
-'0  1  17  ~/build.xml
-'1  23  25  ~/phploy.ini
-'2  1  0  ~/phploy.ini
-'3  10  46  ~/phploy.ini
-'4  1  0  ~/index.php
+'0  27  44  ~/build.xml
+'1  16  3  ~/build.xml
+'2  214  14  ~/build.xml
+'3  1  0  ~/build.xml
+'4  23  25  ~/phploy.ini
 '5  1  0  ~/phploy.ini
-'6  51  46  ~/phploy.ini
+'6  10  46  ~/phploy.ini
 '7  1  0  ~/index.php
+'8  1  0  ~/phploy.ini
+'9  51  46  ~/phploy.ini
 
 # Jumplist (newest first):
--'  1  17  ~/build.xml
+-'  27  44  ~/build.xml
+-'  16  3  ~/build.xml
+-'  1  0  ~/build.xml
+-'  214  14  ~/build.xml
 -'  23  25  ~/phploy.ini
 -'  10  4  ~/phploy.ini
 -'  1  0  ~/phploy.ini
@@ -133,17 +139,19 @@
 -'  1  0  ~/index.php
 -'  1  0  ~/index.php
 -'  1  0  ~/index.php
--'  1  0  ~/index.php
--'  1  0  ~/index.php
 
 # History of marks within files (newest to oldest):
 
 > ~/build.xml
-	"	1	17
-	^	212	11
-	.	212	1
-	+	213	0
-	+	212	1
+	"	27	44
+	^	27	45
+	.	27	44
+	+	590	0
+	+	589	1
+	+	378	0
+	+	212	2
+	+	16	0
+	+	27	44
 
 > ~/phploy.ini
 	"	23	25

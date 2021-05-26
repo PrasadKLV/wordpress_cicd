@@ -77,3 +77,8 @@ git push origin master
 vi phploy.ini
 > phploy.ini
 vi phploy.ini
+ls
+pwd
+vim build.xml
+ip r l
+ls
