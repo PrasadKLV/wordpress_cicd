@@ -135,8 +135,8 @@
        </exec>
    </target>
 
-   <target name="phpdoc" description="Generate API documentation using phpDocumentor 2">
-       <exec dir="${basedir}" executable="phpdoc" failonerror="true">
+   <target name="phpdox" description="Generate API documentation using phpDocumentor 2">
+       <exec dir="${basedir}" executable="phpdox" failonerror="true">
            <!-- excluded directories need the / at the end, else phpdoc ignores it -->
            <arg line="--title='test title' -d . -t build/api -i tests/ " />
        </exec>
