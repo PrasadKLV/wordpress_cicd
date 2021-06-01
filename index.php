@@ -16,7 +16,10 @@ define( 'WP_USE_THEMES', true );
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Naresh
+=======
+>>>>>>> parent of 9f504b8... june01-0539
 =======
 >>>>>>> parent of 9f504b8... june01-0539
